@@ -1,6 +1,6 @@
 # Platzom
 
-Idioma inventado 
+Traduce palabras a un idioma inventado 
 Curso fundamentos de javascript
 
 ## Descripcion del idioma 
